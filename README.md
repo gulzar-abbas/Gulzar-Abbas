@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gulzar Abbas</h1>
 <h3 align="center">A passionate an Seo Expert from Pakistan</h3>
 
-- 🔭 I’m currently working on [Emojicopy](https://emojicopy.org/)
+- 🔭 I’m currently working on [Emojicopy](https://whatismynoseshape.com/
 
 - 🌱 I’m currently learning **Python ,C++ ,JavaScript**
 
