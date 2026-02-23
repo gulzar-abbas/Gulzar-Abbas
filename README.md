@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gulzar Abbas</h1>
 <h3 align="center">A passionate an Seo Expert from Pakistan</h3>
 
-- 🔭 I’m currently working on [Emojicopy](https://whatismynoseshape.com/
+- 🔭 I’m currently working on (https://whatismynoseshape.com/
 
 - 🌱 I’m currently learning **Python ,C++ ,JavaScript**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://face-shape-detector-tawny.vercel.app/](https://face-shape-detector-tawny.vercel.app/)
 
-- 📝 I regularly write articles on [https://businessbaymetrostation.com/](https://businessbaymetrostation.com/)
+- 📝 I regularly write articles on [https://businessbaymetrostation.com/](https://whatismynoseshape.com/)
 
 - 💬 Ask me about **C++ , Java, HTML**
 
